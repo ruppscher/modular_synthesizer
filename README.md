@@ -1,5 +1,5 @@
 # modular_synthesizer
-Modular Synthesizer in VCV
+Modular Synthesizer in VCV Rack 2
 von Ben Saloch
 
 benötigte VCV Library Module:
